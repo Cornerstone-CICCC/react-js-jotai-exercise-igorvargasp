@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; padding: 20px; }
+label { display: block; margin-top: 8px; }
+input, button { margin-top: 6px; }
+.hobby { margin-right: 8px; }
+.user-value { display: inline-block; min-width: 120px; }
